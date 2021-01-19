@@ -1,5 +1,5 @@
 # Math 121, Quizzes
-## m121-sp21-hw1
+## m121-sp21-quizzes
 A repository for the mini-quiz assignments in Math 121: Introduction to Data Science at Wheaton College. Using Github is new to me, so let me know if you come across any problems.
 
 Click the Binder icon below to interact with the quizzes in the cloud. Note that to save your work, you will have to download the notebook to your computer.
