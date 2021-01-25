@@ -1,0 +1,15 @@
+{
+  "name": "Quiz 2 - Cause and Effect",
+  "endpoint": "wheaton/m121/sp21/quiz02",
+  "src": [
+    "quiz02.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
