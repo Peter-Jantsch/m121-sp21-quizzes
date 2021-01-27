@@ -1,0 +1,15 @@
+{
+  "name": "Quiz 3 - Tables",
+  "endpoint": "wheaton/m121/sp21/quiz03",
+  "src": [
+    "quiz03.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
