@@ -1,5 +1,5 @@
 {
-  "name": "Quiz 7 - Charts",
+  "name": "Quiz 6 - Charts",
   "endpoint": "wheaton/m121/sp21/quiz06",
   "src": [
     "quiz06.ipynb"
