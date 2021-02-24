@@ -1,0 +1,15 @@
+{
+  "name": "Iteration and Simulations",
+  "endpoint": "wheaton/m121/sp21/quiz11",
+  "src": [
+    "quiz11.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
