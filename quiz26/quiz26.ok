@@ -1,0 +1,15 @@
+{
+  "name": "Least Squares",
+  "endpoint": "wheaton/m121/sp21/quiz26",
+  "src": [
+    "quiz26.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
