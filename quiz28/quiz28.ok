@@ -2,7 +2,7 @@
   "name": "Classification",
   "endpoint": "wheaton/m121/sp21/quiz28",
   "src": [
-    "wheaton28.ipynb"
+    "quiz28.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
